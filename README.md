@@ -15,3 +15,17 @@ It blocks current.
 Output voltage = 0 V across R Load.
 
 Thus, only the positive half of the AC signal is present at the output.
+
+Full wave Rectifier:
+
+Positive Half-Cycle:
+
+Diode D1 conducts.
+Diode D2 is reverse-biased.
+Current flows through the load in one direction.
+
+Negative Half-Cycle:
+
+Diode D2 conducts.
+Diode D1 is reverse-biased.
+Current still flows through the load in the same direction.
